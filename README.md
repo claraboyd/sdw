@@ -22,6 +22,8 @@ Please note that the Interest Group follows in the footsteps of the <a href="htt
 
 Each deliverable has its own folder. The issue tracker uses labels to distinguish between work items. The current structure is as follows:
 
+bp2 - new version
+
 <dl>
   <dt><a href="https://github.com/w3c/sdw/tree/gh-pages/UseCases">UseCases</a></dt>
   <dd>
